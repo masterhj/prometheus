@@ -54,7 +54,7 @@ chapter in the documentation for all the details.
 ### Docker images
 
 Docker images are available on [Quay.io](https://quay.io/repository/prometheus/prometheus) or [Docker Hub](https://hub.docker.com/r/prom/prometheus/).
-
+with better option
 You can launch a Prometheus container for trying it out with
 
 ```bash
